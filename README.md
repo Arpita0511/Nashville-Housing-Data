@@ -152,7 +152,7 @@ This project is licensed under the MIT License - see the [https://www.kaggle.com
 
 **Arpita Oberoi**  
 MS Data Analytics Candidate | Northeastern University  
-- 📧 Email: arpitaoberoi5@gmail.com
+- 📧 Email: oberoi.arp@northeastern.edu , arpitaoberoi5@gmail.com
 - 💼 LinkedIn: [https://www.linkedin.com/in/arpita-oberoi/]
 - 🌐 GitHub: [https://github.com/Arpita0511]
 
