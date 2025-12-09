@@ -166,3 +166,5 @@ MS Data Analytics Candidate | Northeastern University
 ---
 ⭐ **Note:** This project achieved excellent results in identifying undervalued properties with 75.47% accuracy, 
 providing actionable insights for real estate investment decisions.
+
+[![Academic Project](https://img.shields.io/badge/Academic-Northeastern_University-red)](https://www.northeastern.edu/)
